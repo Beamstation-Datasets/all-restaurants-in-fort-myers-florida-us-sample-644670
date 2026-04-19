@@ -1,12 +1,12 @@
 {
-  "export_job_id": "795a7b73-e016-46c4-b463-42a0c05ce396",
+  "export_job_id": "787fec69-41cb-4ff2-a080-a5d130e06c7a",
   "id_short": 644670,
-  "published_at": "2026-04-14T07:50:51Z",
+  "published_at": "2026-04-19T19:09:58Z",
   "repo_name": "all-restaurants-in-fort-myers-florida-us-sample-644670",
   "sample_asset_name": "beamstation_644670_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/644670/beamstation_644670_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "b483647fa58349f0855dcb1a4c8130ab878084f576d0ffd55ecc67cc157eb484",
-  "sample_size_bytes": 305939,
-  "total_records": 819
+  "sample_records": 80,
+  "sample_sha256": "5eafa86f9563d9004ea13bafd1ba4bbacb15b48f0aa3dae9dd639588bb683de2",
+  "sample_size_bytes": 273603,
+  "total_records": 807
 }
