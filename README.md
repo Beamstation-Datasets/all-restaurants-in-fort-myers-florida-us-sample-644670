@@ -1,6 +1,6 @@
 # All Restaurants in Fort Myers, Florida, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 84 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `644670` |
 | Location | Fort Myers |
 | Category | Restaurants |
-| Full dataset size | 459 records |
-| Free sample size | 45 records (9.8%) |
-| Last export | 2026-04-23T13:43:49.189462+00:00 |
+| Full dataset size | 846 records |
+| Free sample size | 84 records (9.93%) |
+| Last export | 2026-05-01T01:16:58.304144+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-myers-florida-us-sample-644670/releases/download/sample-latest/beamstation_644670_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
